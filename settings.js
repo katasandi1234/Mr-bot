@@ -12,13 +12,13 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.ownernomer = "94773010580"
+global.ownernomer = "2349030155629"
 global.ownername = "Fenix"
 global.ytname = "YT: Fenix_Programmer "
 global.socialm = "GitHub: Fenix-server"
 global.location = "srilanka, colombo, colombo"
 
-global.ownernumber = '94773010580'  //creator number
+global.ownernumber = '2349030155629'  //creator number
 global.ownername = 'FENIX' //owner name
 global.botname = 'FENIX ID V17' //name of the bot
 
